@@ -1,0 +1,462 @@
+TBTGlassScrollViewExample
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample normal i386
+cCopyStringsFile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj/InfoPlist.strings BTGlassScrollViewExample/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/Images.xcassets
+cProcessInfoPlistFile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist
+cGenerateDSYMFile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample
+cTouch /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005283FEDF0000000000000176
+t1384382175
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005275793000000000000003B5
+t1383430448
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005275793700000000000001A0
+t1383430455
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527579390000000000445870
+t1383430457
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005275793A000000000088C680
+t1383430458
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005275793F0000000001DB9910
+t1383430463
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000527579AE0000000000000AC9
+t1383430574
+s2761
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m
+c000000005267F38200000000000034A7
+t1382544258
+s13479
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m
+c000000005267F38200000000000032F0
+t1382544258
+s13040
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m
+c000000005267F38200000000000009A8
+t1382544258
+s2472
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist
+c000000005267F38200000000000005F3
+t1382544258
+s1523
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch
+c000000005267F3820000000000000158
+t1382544258
+s344
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m
+c000000005267F3820000000000000526
+t1382544258
+s1318
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/Images.xcassets
+c000000005267F38200000000000000EE
+t1382544258
+s238
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m
+c000000005267F3820000000000001E18
+t1382544258
+s7704
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/en.lproj/InfoPlist.strings
+c000000005267F382000000000000002D
+t1382544258
+s45
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m
+c000000005267F3820000000000000155
+t1382544258
+s341
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o
+t1386602509
+s67596
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o
+t1386602509
+s100004
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollViewExample.LinkFileList
+c0000000052A5E00D0000000000000541
+t1386602509
+s1345
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o
+t1386602509
+s51916
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o
+t1386602509
+s24928
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o
+t1386602509
+s77292
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o
+t1386602509
+s3816
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_dependencies.txt
+t1386602512
+s574
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_generated_info.plist
+t1386602512
+s525
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch
+t1386602509
+s115768
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app
+t1386602512
+s272
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM
+t2
+s0
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample
+t1386602509
+s91236
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist
+t1386602512
+s1302
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/PkgInfo
+t1386602512
+s8
+
+N/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj/InfoPlist.strings
+t1386602509
+s42
+
+CBuild AST from /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m
+r0
+
+CBuild AST from /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m
+r0
+
+CBuild AST from /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m
+r0
+
+CBuild AST from /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m
+r0
+
+CBuild AST from /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m
+r0
+
+CBuild AST from /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0e2e198d1756b841^616e238d1756b841^---0#1#1#--18"Check dependencies36"C27714C1-ADD3-497F-B93D-12C37BEE2CB7-
+
+CCompileAssetCatalog /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/Images.xcassets
+s408295309.771122
+e408295312.325561
+r1
+xCompileAssetCatalog
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/LaunchImage-700-568h@2x.png
+o/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Assets.car
+o/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CompileAssetCatalog Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app BTGlassScrollViewExample/Images.xcassets126"CompileAssetCatalog Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app BTGlassScrollViewExample/Images.xcassets2576c58d1756b841^f35853901756b841^-602"/* com.apple.actool.compilation-results *//Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/LaunchImage-700-568h@2x.png/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Assets.car/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@131"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/Images.xcassets/0000000000000000^1515"CompileAssetCatalog Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app BTGlassScrollViewExample/Images.xcassets    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/Images.xcassets36"C549BC87-ABA0-49F0-97FA-79C0B44C8E44-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.371675
+e408295309.524756
+r1
+xCompileC
+xBuild/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m253"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o BTGlassScrollViewExample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc93b5f8d1756b841^7557868d1756b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m0000000000000000^4741"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o BTGlassScrollViewExample/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -include /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.dia -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.m -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o36"069DEA56-0303-4949-8BA4-0DAED200E380-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.372040
+e408295309.551626
+r1
+xCompileC
+xBuild/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.h
+o/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m:125:2: warning: might cause infiniteloop [-W#warnings]
+o#warning might cause infiniteloop
+o ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m316"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler95625f8d1756b841^f4378d8d1756b841^-209"/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m:125:2: warning: might cause infiniteloop [-W#warnings]#warning might cause infiniteloop ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"Might cause infiniteloop-408295309#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@102"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m0000000000000000^124#1#124#1#5338#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@102"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m0000000000000000^4796"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -include /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.d --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.dia -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.m -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o36"BF939724-4D4A-483E-B70A-CD867908663C-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.371445
+e408295309.524615
+r1
+xCompileC
+xBuild/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m269"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o BTGlassScrollViewExample/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a2e5f8d1756b841^274e868d1756b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m0000000000000000^4789"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o BTGlassScrollViewExample/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -include /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.dia -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.m -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o36"B8F86131-B62E-490B-BB69-140D6F8765AC-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.371193
+e408295309.722034
+r1
+xCompileC
+xBuild/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m322"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e215f8d1756b841^fdd8b88d1756b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m0000000000000000^4814"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -include /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.d --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.dia -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.m -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o36"02D4252C-D6A0-49E2-85C4-29AA44FA017D-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.373559
+e408295309.543805
+r1
+xCompileC
+xBuild/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.h
+o/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m:61:2: warning: Toggle this to see the more complex build of this version [-W#warnings]
+o#warning Toggle this to see the more complex build of this version
+o ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m259"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o BTGlassScrollViewExample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler90c05f8d1756b841^82388b8d1756b841^-303"/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m:61:2: warning: Toggle this to see the more complex build of this version [-W#warnings]#warning Toggle this to see the more complex build of this version ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@57"Toggle this to see the more complex build of this version-408295309#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@131"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m0000000000000000^60#1#60#1#1658#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@131"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m0000000000000000^4759"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o BTGlassScrollViewExample/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -include /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.dia -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.m -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o36"9ED120C0-6C5C-43B9-8843-D03DF5A9655E-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.372419
+e408295309.519136
+r1
+xCompileC
+xBuild/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AppDelegate.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/ViewController.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/BTGlassScrollView.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollView/UIImage+ImageEffects.h
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m239"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o BTGlassScrollViewExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler57785f8d1756b841^c1e6848d1756b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m0000000000000000^4699"CompileC Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o BTGlassScrollViewExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -include /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.dia -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/main.m -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o36"C1BA0853-F8B4-46E0-9416-99AB24FC024E-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CCopyStringsFile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj/InfoPlist.strings BTGlassScrollViewExample/en.lproj/InfoPlist.strings
+s408295309.770427
+e408295309.784750
+r1
+xCopyStringsFile
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj/InfoPlist.strings
+xBTGlassScrollViewExample/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy BTGlassScrollViewExample/en.lproj/InfoPlist.strings160"CopyStringsFile Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj/InfoPlist.strings BTGlassScrollViewExample/en.lproj/InfoPlist.strings374fc58d1756b841^9835c98d1756b841^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/en.lproj/InfoPlist.strings0000000000000000^749"CopyStringsFile Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj/InfoPlist.strings BTGlassScrollViewExample/en.lproj/InfoPlist.strings    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/en.lproj -- BTGlassScrollViewExample/en.lproj/InfoPlist.strings36"F5B4E175-5B7E-40A3-A6E3-09931BF01224-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CGenerateDSYMFile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample
+s408295312.330334
+e408295312.349273
+r1
+xGenerateDSYMFile
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Generate /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM178"GenerateDSYMFile Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample34a254901756b841^986b59901756b841^---0#0#1#-19%DVTDocumentLocation2@160"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM00342833dfffdf42^895"GenerateDSYMFile Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app.dSYM36"8FE52013-6B1F-445B-AD47-2B4151DB2CFB-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CLd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample normal i386
+s408295309.723846
+e408295309.769599
+r1
+xLd
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample
+xnormal
+xi386
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollViewExample.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/UIImage+ImageEffects.o
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/FirstViewController.o
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/AppDelegate.o
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollView.o
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/main.o
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/ViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Link /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample105"Ld Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample normal i3861a6db98d1756b841^f1b8c88d1756b841^---0#0#1#--1823"Ld Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample normal i386    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator -filelist /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollViewExample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/Objects-normal/i386/BTGlassScrollViewExample_dependency_info.dat -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/BTGlassScrollViewExample36"5D469455-1DB0-4AEE-A4D8-A2E0D12BC90B-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CProcessInfoPlistFile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist
+s408295312.326082
+e408295312.329700
+r1
+xProcessInfoPlistFile
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Process /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist158"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist338853901756b841^346854901756b841^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist0000000000000000^1255"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Info.plist -genpkginfo /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/assetcatalog_generated_info.plist -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app/Info.plist36"5E8F85E4-195D-4647-9751-7770BE2B9954-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CProcessPCH /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408295309.139643
+e408295309.370501
+r1
+xProcessPCH
+x/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch
+xBTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch279"ProcessPCH Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2fde238d1756b841^f9db5e8d1756b841^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch0000000000000000^4570"ProcessPCH Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jonathanspooner/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-generated-files.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-own-target-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-all-target-headers.hmap -iquote /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/BTGlassScrollViewExample-project-headers.hmap -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources/i386 -I/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/BTGlassScrollViewExample.build/Debug-iphonesimulator/BTGlassScrollViewExample.build/DerivedSources -F/Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.d -c /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch -o /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Intermediates/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-eqrmyrivzywanqcrkalbgfivumgz/BTGlassScrollViewExample-Prefix.pch.pch36"094C40BF-6563-4DD4-8237-B7487C85DC30-
+bF72393E6-9328-4117-A97A-E30C22D7183C
+
+CProcessPCH /Users/jonathanspooner/Library/Developer/Xcode/DerivedData/BTGlassScrollViewExample-dpqycrkbspudxhafwalfycelzcle/Index/PrecompiledHeaders/BTGlassScrollViewExample-Prefix-bvuopqodvfiwgubyhhpoibashexk_ast/BTGlassScrollViewExample-Prefix.pch.pch BTGlassScrollViewExample/BTGlassScrollViewExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/Build/Products/Debug-iphonesimulator/BTGlassScrollViewExample.app
+r0
+
