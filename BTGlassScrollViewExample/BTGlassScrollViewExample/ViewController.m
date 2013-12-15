@@ -54,6 +54,8 @@
     [self.navigationController.navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
     self.navigationController.navigationBar.shadowImage = [UIImage new];
     self.title = @"Alex Rd. Oceanside Skate Park";
+//    UIBarButtonItem *anotherButton = [[UIBarButtonItem alloc] initWithTitle:@"Share" style:UIBarButtonItemStylePlain target:self action:nil];
+//    self.navigationItem.rightBarButtonItem = anotherButton;
     
     //background
     self.view.backgroundColor = [UIColor blackColor];
@@ -133,6 +135,10 @@
     [label setShadowOffset:CGSizeMake(1, 1)];
     [view addSubview:label];
     
+//    UIImageView *shareView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"share"]];
+//    [shareView setFrame:CGRectMake(5, 125, 300, 50)];
+//    [view addSubview:shareView];
+    
     UIView *box1 = [[UIView alloc] initWithFrame:CGRectMake(5, 140, 310, 155)];
     box1.layer.cornerRadius = 3;
     box1.backgroundColor = [UIColor colorWithWhite:0 alpha:.15];
@@ -176,7 +182,7 @@
     [uploadButton setTitle:@"Upload Photos" forState:UIControlStateNormal];
     [box2 addSubview:uploadButton];
     
-    UIView *box3 = [[UIView alloc] initWithFrame:CGRectMake(5, 690, 310, 125)];
+    UIView *box3 = [[UIView alloc] initWithFrame:CGRectMake(5, 690, 310, 260)];
     box3.layer.cornerRadius = 3;
     box3.backgroundColor = [UIColor colorWithWhite:0 alpha:.15];
     [view addSubview:box3];
