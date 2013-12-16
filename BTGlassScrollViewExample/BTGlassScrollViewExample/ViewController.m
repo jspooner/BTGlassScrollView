@@ -63,9 +63,14 @@
 #warning Toggle this to see the more complex build of this version
     if (SIMPLE_SAMPLE) {
         //create your custom info views
-        UIView *view = [self customView];
+//        UIView *view = [self customView];
+        SkateparkPage *view = [[SkateparkPage alloc] initWithFrame:CGRectMake(0, 0, 320, 600)];
         
-        _glassScrollView = [[BTGlassScrollView alloc] initWithFrame:self.view.frame BackgroundImage:[UIImage imageNamed:@"background"] blurredImage:nil viewDistanceFromBottom:120 foregroundView:view];
+        _glassScrollView = [[BTGlassScrollView alloc] initWithFrame:self.view.frame
+                                                    BackgroundImage:[UIImage imageNamed:@"background"]
+                                                       blurredImage:nil
+                                             viewDistanceFromBottom:120
+                                                     foregroundView:view];
         
         [self.view addSubview:_glassScrollView];
     }else{
@@ -123,7 +128,7 @@
 
 - (UIView *)customView
 {
-    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 320, 1005)];
+    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 320, 1205)];
 
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(5, 5, 310, 120)];
     [label setLineBreakMode:NSLineBreakByWordWrapping];
@@ -182,7 +187,7 @@
     [uploadButton setTitle:@"Upload Photos" forState:UIControlStateNormal];
     [box2 addSubview:uploadButton];
     
-    UIView *box3 = [[UIView alloc] initWithFrame:CGRectMake(5, 690, 310, 260)];
+    UIView *box3 = [[UIView alloc] initWithFrame:CGRectMake(5, 690, 350, 300)];
     box3.layer.cornerRadius = 3;
     box3.backgroundColor = [UIColor colorWithWhite:0 alpha:.15];
     [view addSubview:box3];
@@ -190,6 +195,17 @@
     UIImageView *mapView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"map"]];
     [mapView setFrame:CGRectMake(5, 5, 300, 250)];
     [box3 addSubview:mapView];
+
+    UIButton *flagButton = [[UIButton alloc] initWithFrame:CGRectMake(5, 255, 300, 44)];
+    [flagButton setTitle:@"Flag Location" forState:UIControlStateNormal];
+    [box3 addSubview:flagButton];
+    
+
+    UIView *box4 = [[UIView alloc] initWithFrame:CGRectMake(5, 995, 310, 150)];
+    box4.layer.cornerRadius = 3;
+    box4.backgroundColor = [UIColor colorWithWhite:0 alpha:.15];
+    [view addSubview:box4];
+
     
     return view;
 }

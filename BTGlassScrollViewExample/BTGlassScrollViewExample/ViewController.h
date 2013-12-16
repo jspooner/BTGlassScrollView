@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "BTGlassScrollView.h"
+#import "SkateparkPage.h"
 
 @interface ViewController : UIViewController <UIScrollViewAccessibilityDelegate>
 

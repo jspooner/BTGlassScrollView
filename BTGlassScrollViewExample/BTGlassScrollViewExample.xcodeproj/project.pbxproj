@@ -23,6 +23,9 @@
 		083048391811D7D30068CA79 /* UIImage+ImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 083048371811D7D30068CA79 /* UIImage+ImageEffects.m */; };
 		0830483C1811D7F60068CA79 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0830483B1811D7F60068CA79 /* ViewController.m */; };
 		4C9EDEE51816268400FD2642 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9EDEE41816268400FD2642 /* FirstViewController.m */; };
+		FBD2F4BE185EBD1C0036AA8C /* SkateparkPage.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4BD185EBD1C0036AA8C /* SkateparkPage.m */; };
+		FBD2F4C1185EC0100036AA8C /* BoxView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4C0185EC0100036AA8C /* BoxView.m */; };
+		FBD2F4C4185ED5C00036AA8C /* AddressView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4C3185ED5C00036AA8C /* AddressView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +63,12 @@
 		0830483B1811D7F60068CA79 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4C9EDEE31816268400FD2642 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		4C9EDEE41816268400FD2642 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		FBD2F4BC185EBD1C0036AA8C /* SkateparkPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SkateparkPage.h; sourceTree = "<group>"; };
+		FBD2F4BD185EBD1C0036AA8C /* SkateparkPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SkateparkPage.m; sourceTree = "<group>"; };
+		FBD2F4BF185EC0100036AA8C /* BoxView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoxView.h; sourceTree = "<group>"; };
+		FBD2F4C0185EC0100036AA8C /* BoxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoxView.m; sourceTree = "<group>"; };
+		FBD2F4C2185ED5C00036AA8C /* AddressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressView.h; sourceTree = "<group>"; };
+		FBD2F4C3185ED5C00036AA8C /* AddressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +129,7 @@
 		083048001811D7500068CA79 /* BTGlassScrollViewExample */ = {
 			isa = PBXGroup;
 			children = (
+				FBD2F4BB185EBCCD0036AA8C /* PWDetailPage */,
 				083048091811D7500068CA79 /* AppDelegate.h */,
 				0830480A1811D7500068CA79 /* AppDelegate.m */,
 				4C9EDEE31816268400FD2642 /* FirstViewController.h */,
@@ -171,6 +181,19 @@
 			);
 			name = BTGlassScrollView;
 			path = ../BTGlassScrollView;
+			sourceTree = "<group>";
+		};
+		FBD2F4BB185EBCCD0036AA8C /* PWDetailPage */ = {
+			isa = PBXGroup;
+			children = (
+				FBD2F4BC185EBD1C0036AA8C /* SkateparkPage.h */,
+				FBD2F4BD185EBD1C0036AA8C /* SkateparkPage.m */,
+				FBD2F4BF185EC0100036AA8C /* BoxView.h */,
+				FBD2F4C0185EC0100036AA8C /* BoxView.m */,
+				FBD2F4C2185ED5C00036AA8C /* AddressView.h */,
+				FBD2F4C3185ED5C00036AA8C /* AddressView.m */,
+			);
+			name = PWDetailPage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -271,11 +294,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBD2F4C1185EC0100036AA8C /* BoxView.m in Sources */,
 				083048391811D7D30068CA79 /* UIImage+ImageEffects.m in Sources */,
 				4C9EDEE51816268400FD2642 /* FirstViewController.m in Sources */,
 				0830480B1811D7500068CA79 /* AppDelegate.m in Sources */,
 				083048381811D7D30068CA79 /* BTGlassScrollView.m in Sources */,
 				083048071811D7500068CA79 /* main.m in Sources */,
+				FBD2F4C4185ED5C00036AA8C /* AddressView.m in Sources */,
+				FBD2F4BE185EBD1C0036AA8C /* SkateparkPage.m in Sources */,
 				0830483C1811D7F60068CA79 /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
