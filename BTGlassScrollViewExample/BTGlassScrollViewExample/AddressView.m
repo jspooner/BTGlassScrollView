@@ -10,15 +10,16 @@
 
 @implementation AddressView
 
-- (id)initWithFrame:(CGRect)frame
+-(id)initWithTitle:(NSString*)title
 {
-    self = [super initWithFrame:frame];
+    self = [super initWithTitle:title];
     if (self) {
         [self buildAddress];
         [self buildMapButtons];
         [self sizeToFit];
     }
     return self;
+    
 }
 
 -(void)buildAddress

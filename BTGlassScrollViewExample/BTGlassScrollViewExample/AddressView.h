@@ -10,4 +10,6 @@
 
 @interface AddressView : BoxView
 
+//-(id)initWithTitle:(NSString*)title;
+
 @end

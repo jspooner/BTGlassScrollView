@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "BoxView.h"
 #import "AddressView.h"
+#import "PhotosView.h"
 
 @interface SkateparkPage : UIView {
     NSMutableArray *boxes;

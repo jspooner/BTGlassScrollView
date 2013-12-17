@@ -10,4 +10,6 @@
 
 @interface BoxView : UIView
 
+-(id)initWithTitle:(NSString*)title;
+
 @end

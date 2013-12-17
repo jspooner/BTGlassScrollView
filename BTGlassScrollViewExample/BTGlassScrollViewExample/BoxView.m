@@ -11,23 +11,25 @@
 @implementation BoxView
 
 #define PADDING 5
+#define DEFAULT_WIDTH 310
+#define DEFAULT_HEIGHT 100
 
-- (id)initWithFrame:(CGRect)frame
+-(id)initWithTitle:(NSString*)title
 {
-    self = [super initWithFrame:frame];
+    self = [super initWithFrame:CGRectMake(PADDING, PADDING, DEFAULT_WIDTH, DEFAULT_HEIGHT)];
     if (self) {
         [self initBoxBackground];
-        [self buildHeader];
+        [self buildHeader:title];
         [self sizeToFit];
     }
     return self;
 }
 
--(void)buildHeader
+-(void)buildHeader:(NSString*)title
 {
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(PADDING, PADDING, 310, 20)];
     [label setLineBreakMode:NSLineBreakByWordWrapping];
-    [label setText:@"Address & Directions"];
+    [label setText:title];
     [label setTextColor:[UIColor whiteColor]];
     [label setFont:[UIFont fontWithName:@"HelveticaNeue" size:17]];
     [self addSubview:label];
