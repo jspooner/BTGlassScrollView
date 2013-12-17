@@ -5,4 +5,6 @@ dependencies: \
   /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/../BTGlassScrollView/BTGlassScrollView.h \
   /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/../BTGlassScrollView/UIImage+ImageEffects.h \
   /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/SkateparkPage.h \
+  /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/BoxView.h \
+  /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/AddressView.h \
   /Users/jonathanspooner/Downloads/BTGlassScrollView-master/BTGlassScrollViewExample/BTGlassScrollViewExample/FirstViewController.h

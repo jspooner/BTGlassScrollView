@@ -25,10 +25,10 @@
     BoxView *lastBox = [boxes lastObject];
     [self addSubview:box];
     if (lastBox != nil) {
-        [box setFrame:CGRectMake(box.bounds.origin.x,
-                                 lastBox.bounds.origin.y+lastBox.bounds.size.height+10,
-                                 box.bounds.size.width,
-                                 box.bounds.size.height)];
+        [box setFrame:CGRectMake(box.frame.origin.x,
+                                 lastBox.frame.origin.y+lastBox.frame.size.height+10,
+                                 box.frame.size.width,
+                                 box.frame.size.height)];
     }
 
     [boxes addObject:box];
@@ -46,7 +46,7 @@
     [label setShadowOffset:CGSizeMake(1, 1)];
     [self addSubview:label];
     
-    AddressView *box1 = [[AddressView alloc] initWithFrame:CGRectMake(5, 140, 310, 100)];
+    AddressView *box1 = [[AddressView alloc] initWithFrame:CGRectMake(5, 140, 310, 155)];
     [self addBox:box1];
     
 //    //    UIImageView *shareView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"share"]];
@@ -60,8 +60,10 @@
 //    [box1 addSubview:[[UIImageView alloc] initWithImage:[UIImage imageNamed:@"address"]]];
 //
 //    UIView *box2 = [[UIView alloc] initWithFrame:CGRectMake(5, 300, 310, 380)];
-    BoxView *box2 = [[BoxView alloc] initWithFrame:CGRectMake(5, 5, 310, 120)];
+
+    BoxView *box2 = [[BoxView alloc] initWithFrame:CGRectMake(5, 0, 310, 120)];
     [self addBox:box2];
+
 //    box2.layer.cornerRadius = 3;
 //    box2.backgroundColor = [UIColor colorWithWhite:0 alpha:.15];
 //    [self addSubview:box2];
