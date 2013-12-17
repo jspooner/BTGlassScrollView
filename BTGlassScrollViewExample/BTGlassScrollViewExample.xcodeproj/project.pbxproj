@@ -27,6 +27,7 @@
 		FBD2F4C1185EC0100036AA8C /* BoxView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4C0185EC0100036AA8C /* BoxView.m */; };
 		FBD2F4C4185ED5C00036AA8C /* AddressView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4C3185ED5C00036AA8C /* AddressView.m */; };
 		FBD2F4C718602FA70036AA8C /* PhotosView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4C618602FA70036AA8C /* PhotosView.m */; };
+		FBD2F4CA186032FD0036AA8C /* MapView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBD2F4C9186032FD0036AA8C /* MapView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,8 @@
 		FBD2F4C3185ED5C00036AA8C /* AddressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressView.m; sourceTree = "<group>"; };
 		FBD2F4C518602FA70036AA8C /* PhotosView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotosView.h; sourceTree = "<group>"; };
 		FBD2F4C618602FA70036AA8C /* PhotosView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotosView.m; sourceTree = "<group>"; };
+		FBD2F4C8186032FD0036AA8C /* MapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapView.h; sourceTree = "<group>"; };
+		FBD2F4C9186032FD0036AA8C /* MapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +200,8 @@
 				FBD2F4C3185ED5C00036AA8C /* AddressView.m */,
 				FBD2F4C518602FA70036AA8C /* PhotosView.h */,
 				FBD2F4C618602FA70036AA8C /* PhotosView.m */,
+				FBD2F4C8186032FD0036AA8C /* MapView.h */,
+				FBD2F4C9186032FD0036AA8C /* MapView.m */,
 			);
 			name = PWDetailPage;
 			sourceTree = "<group>";
@@ -301,6 +306,7 @@
 			files = (
 				FBD2F4C1185EC0100036AA8C /* BoxView.m in Sources */,
 				083048391811D7D30068CA79 /* UIImage+ImageEffects.m in Sources */,
+				FBD2F4CA186032FD0036AA8C /* MapView.m in Sources */,
 				4C9EDEE51816268400FD2642 /* FirstViewController.m in Sources */,
 				0830480B1811D7500068CA79 /* AppDelegate.m in Sources */,
 				083048381811D7D30068CA79 /* BTGlassScrollView.m in Sources */,
