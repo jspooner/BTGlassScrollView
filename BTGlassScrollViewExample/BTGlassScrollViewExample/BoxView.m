@@ -55,7 +55,7 @@
         h = MAX(fh, h);
     }
 
-    NSLog(@"Box.sizeThatFits %f, %f", w-PADDING, h+PADDING);
+//    NSLog(@"Box.sizeThatFits %f, %f", w-PADDING, h+PADDING);
     return CGSizeMake(w-PADDING, h+PADDING);
 }
 

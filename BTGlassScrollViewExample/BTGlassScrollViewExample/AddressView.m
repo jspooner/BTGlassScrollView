@@ -18,8 +18,8 @@
         [self buildMapButtons];
         [self sizeToFit];
     }
+
     return self;
-    
 }
 
 -(void)buildAddress

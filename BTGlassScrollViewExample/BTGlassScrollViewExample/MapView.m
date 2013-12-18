@@ -24,10 +24,10 @@
 -(void)buildDemo
 {
     UIImageView *mapView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"map"]];
-    [mapView setFrame:CGRectMake(5, 5, 300, 250)];
+    [mapView setFrame:CGRectMake(5, 40, 300, 250)];
     [self addSubview:mapView];
 
-    UIButton *flagButton = [[UIButton alloc] initWithFrame:CGRectMake(5, 255, 300, 44)];
+    UIButton *flagButton = [[UIButton alloc] initWithFrame:CGRectMake(5, 290, 300, 44)];
     [flagButton setTitle:@"Flag Location" forState:UIControlStateNormal];
     [self addSubview:flagButton];
 }

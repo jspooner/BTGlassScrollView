@@ -19,26 +19,14 @@
     if (self) {
         boxes = [[NSMutableArray alloc] init];
         [self buildCustomView];
+        [self sizeToFit];
     }
     return self;
 }
 
 -(void)addBox:(BoxView*)box
 {
-    BoxView *lastBox = [boxes lastObject];
     [self addSubview:box];
-    if (lastBox == nil) {
-        [box setFrame:CGRectMake(0,
-                                 BOX_START_Y,
-                                 box.frame.size.width,
-                                 box.frame.size.height)];
-    } else {
-        [box setFrame:CGRectMake(0,
-                                 lastBox.frame.origin.y+lastBox.frame.size.height+PADDING,
-                                 box.frame.size.width,
-                                 box.frame.size.height)];
-    }
-
     [boxes addObject:box];
 }
 
@@ -63,13 +51,39 @@
     MapView *box3 = [[MapView alloc] initWithTitle:@"Map"];
     [self addBox:box3];
 
-    BoxView *box4 = [[BoxView alloc] initWithTitle:@"Description"];
+    DescriptionView *box4 = [[DescriptionView alloc] initWithTitle:@"Description"];
     [self addBox:box4];
 
     BoxView *box5 = [[BoxView alloc] initWithTitle:@"Share"];
     [self addBox:box5];
-    
-    [self sizeToFit];
+}
+
+
+/*
+ * Position all of the boxes
+ */
+-(void)sizeToFit
+{
+    BoxView *lastBox = nil;
+    for (int x = 0; x < [boxes count]; x++) {
+//        NSLog(@"sizeToFit %@", [[boxes objectAtIndex:x] class] );
+        if (x-1 >= 0) {
+            lastBox = [boxes objectAtIndex:x-1];
+        }
+        BoxView *box = [boxes objectAtIndex:x];
+        if (lastBox == nil) {
+            [box setFrame:CGRectMake(0,
+                                     BOX_START_Y,
+                                     box.frame.size.width,
+                                     box.frame.size.height)];
+        } else {
+            [box setFrame:CGRectMake(0,
+                                     lastBox.frame.origin.y+lastBox.frame.size.height+PADDING,
+                                     box.frame.size.width,
+                                     box.frame.size.height)];
+        }
+    }
+    [super sizeToFit];
 }
 
 -(CGSize)sizeThatFits:(CGSize)size
@@ -84,7 +98,7 @@
         h = MAX(fh, h);
     }
     
-    NSLog(@"Box.sizeThatFits %f, %f", w-PADDING, h+PADDING);
+    NSLog(@"SkateparkPage.sizeThatFits %f, %f", w-PADDING, h+PADDING);
     return CGSizeMake(w-PADDING, h+PADDING);
 }
 @end

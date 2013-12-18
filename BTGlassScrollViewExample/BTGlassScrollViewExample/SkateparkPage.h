@@ -11,6 +11,7 @@
 #import "AddressView.h"
 #import "PhotosView.h"
 #import "MapView.h"
+#import "DescriptionView.h"
 
 @interface SkateparkPage : UIView {
     NSMutableArray *boxes;
